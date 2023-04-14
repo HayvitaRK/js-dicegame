@@ -1,1 +1,1 @@
-# js-dicegame
+# DiceGame
